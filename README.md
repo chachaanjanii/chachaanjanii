@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/chachaanjanii/gambar/blob/main/korea2.jpg)
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 
